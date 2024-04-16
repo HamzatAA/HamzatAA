@@ -1,11 +1,16 @@
 ### Hi there 👋
 
+My name is Hamzat Abdulsalam Abiodun. I am currently developing my skills as a Frontend developer with Zuri team Inc.
+
+ 🔭 I’m currently working with Html, Css and Javascript.
+
+Say Hi on X twitter.com/aahamzat
 <!--
 **HamzatAA/HamzatAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
